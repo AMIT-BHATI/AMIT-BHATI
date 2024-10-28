@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMIT BHATI</h1>
-<h3 align="center">Application || web developer || efficiently developing websites and applications using modern Flutter, HTML, CSS, Node.js, React, JavaScript, SQL, and Cloud apps</h3>
+<h3 align="center">Application || web developer || efficiently developing websites and applications using modern Flutter, HTML, CSS, Node.js, React, JavaScript, database, and Cloud apps</h3>
 
 <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"   alt="coding">
 
